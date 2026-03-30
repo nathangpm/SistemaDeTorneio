@@ -1,3 +1,2 @@
 # SistemaDeTorneio
-Nome e rm do aluno 
-Nathan G.P. Mendes; 564666
+Nathan G.P. Mendes; Rm564666
